@@ -1,0 +1,2 @@
+# dashboard-switch-theme
+ 
